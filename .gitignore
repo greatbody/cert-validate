@@ -1,0 +1,11 @@
+# No dist included
+dist/
+**egg-info/
+
+# No .pyc or .pyo files
+*.pyc
+*.pyo
+
+# No macOS .DS_Store or .ini files
+.DS_Store
+*.ini
